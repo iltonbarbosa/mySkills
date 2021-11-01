@@ -53,7 +53,7 @@ export function Home(){
       <View style={styles.container}>
         
         <Text style={styles.title} testID="welcome">
-            Welcome Ilton Barbosa
+            Welcome Usuário(a)
         </Text>
 
         <Text style={styles.greetings}>
